@@ -7,19 +7,19 @@ h1{
     text-align: center;
     font-size: 27px;
     color: hsl(234, 12%, 34%);
-    font-weight: 200px;
+    font-weight: 200;
     
 }
 
 h1 span{
-    font-weight: 400px;
+    font-weight: 600;
 }
 
 .body{
     font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 15px;
-    font-weight: 400px;
+    font-weight: 400;
     color:hsl(229, 6%, 66%);
 }
 
@@ -27,7 +27,7 @@ h1 span{
     font-family: 'Poppins', sans-serif;
     text-align: left;
     font-size: 12px;
-    font-weight: 400px;
+    font-weight: 400;
     color:hsl(229, 6%, 66%);
 }
 
@@ -35,7 +35,7 @@ h3{
     font-family: 'Poppins', sans-serif;
     text-align: left;
     font-size: 16px;
-    font-weight: 600px;
+    font-weight: 600;
     color: hsl(234, 12%, 34%);
 }
 
