@@ -59,6 +59,8 @@ h3{
     position: relative;
     top: 170px;
     left: 145px;
+    transition: 0.5s;
+    
 }
 
 .block2{
@@ -73,6 +75,7 @@ h3{
     left: 150px;
     top: 40px;
     position:relative;
+    transition: 0.5s;
  }
 
 .block3{
@@ -87,6 +90,7 @@ h3{
     top: 290px;
     right: 160px;
     position: relative;
+    transition: 0.5s;
  }
 
 .block4{
@@ -101,6 +105,7 @@ h3{
     top: 170px;
     position: relative;
     right: 155px;
+    transition: 0.5s;
 }
 
 .container{
@@ -109,4 +114,24 @@ h3{
       height: 600px;
       margin: 0 auto;
 
+}
+
+.block1:hover{
+    transform:scale(1.1);
+    cursor: pointer;
+}
+
+.block2:hover{
+    transform:scale(1.1);
+    cursor: pointer;
+}
+
+.block3:hover{
+    transform:scale(1.1);
+    cursor: pointer;
+}
+
+.block4:hover{
+    transform:scale(1.1);
+    cursor: pointer;
 }
